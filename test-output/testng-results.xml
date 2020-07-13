@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="62133" started-at="2020-05-17T11:43:25 IST" finished-at="2020-05-17T11:44:27 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="62133" started-at="2020-05-17T11:43:25 IST" finished-at="2020-05-17T11:44:27 IST">
+      <class name="facebookreleated.FacebookLauch">
+        <test-method status="PASS" signature="luanch()[pri:0, instance:facebookreleated.FacebookLauch@6895a785]" name="luanch" is-config="true" duration-ms="4937" started-at="2020-05-17T11:43:20 IST" finished-at="2020-05-17T11:43:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- luanch -->
+        <test-method status="PASS" signature="maximizee()[pri:0, instance:facebookreleated.FacebookLauch@6895a785]" name="maximizee" is-config="true" duration-ms="1148" started-at="2020-05-17T11:43:25 IST" finished-at="2020-05-17T11:43:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- maximizee -->
+        <test-method status="PASS" signature="loadtheurl()[pri:0, instance:facebookreleated.FacebookLauch@6895a785]" name="loadtheurl" duration-ms="5061" started-at="2020-05-17T11:43:26 IST" finished-at="2020-05-17T11:43:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadtheurl -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:facebookreleated.FacebookLauch@6895a785]" name="teardown" is-config="true" duration-ms="3186" started-at="2020-05-17T11:44:27 IST" finished-at="2020-05-17T11:44:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- facebookreleated.FacebookLauch -->
+      <class name="facebookreleated.FaceBooklogin">
+        <test-method status="PASS" signature="screenshot()[pri:0, instance:facebookreleated.FaceBooklogin@184f6be2]" name="screenshot" is-config="true" duration-ms="677" started-at="2020-05-17T11:43:32 IST" finished-at="2020-05-17T11:43:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screenshot -->
+        <test-method status="PASS" signature="dataread(java.lang.String, java.lang.String)[pri:0, instance:facebookreleated.FaceBooklogin@184f6be2]" name="dataread" duration-ms="27133" started-at="2020-05-17T11:43:33 IST" data-provider="inputdata" finished-at="2020-05-17T11:44:00 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kumar.sathish189@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Admin@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dataread -->
+        <test-method status="PASS" signature="screenshot()[pri:0, instance:facebookreleated.FaceBooklogin@184f6be2]" name="screenshot" is-config="true" duration-ms="442" started-at="2020-05-17T11:44:00 IST" finished-at="2020-05-17T11:44:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screenshot -->
+        <test-method status="PASS" signature="dataread(java.lang.String, java.lang.String)[pri:0, instance:facebookreleated.FaceBooklogin@184f6be2]" name="dataread" duration-ms="13721" started-at="2020-05-17T11:44:00 IST" data-provider="inputdata" finished-at="2020-05-17T11:44:14 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kumar.sathish189@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Admin@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dataread -->
+        <test-method status="PASS" signature="screenshot()[pri:0, instance:facebookreleated.FaceBooklogin@184f6be2]" name="screenshot" is-config="true" duration-ms="533" started-at="2020-05-17T11:44:14 IST" finished-at="2020-05-17T11:44:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screenshot -->
+        <test-method status="PASS" signature="dataread(java.lang.String, java.lang.String)[pri:0, instance:facebookreleated.FaceBooklogin@184f6be2]" name="dataread" duration-ms="12801" started-at="2020-05-17T11:44:14 IST" data-provider="inputdata" finished-at="2020-05-17T11:44:27 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kumar.sathish189@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Admin@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dataread -->
+      </class> <!-- facebookreleated.FaceBooklogin -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
